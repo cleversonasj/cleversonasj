@@ -1,4 +1,13 @@
-### Hi there 👋
+### :earth_americas: "Hello World!" :earth_americas:
+
+#### My name's Cleverson, I'm 30 and I'm from Brazil.
+
+:book: I'm a IT student and I'm currently learning HTML, CSS, JS and React.\
+:ab: I speak Portuguese and Spanish but what about English? I'm improving my English but I can read and write without difficulty and if you need, we can try to talk.
+
+If you have any question, please let me know!
+
+:thumbsup: Thanks for visiting! 
 
 <!--
 **cleversonasj/cleversonasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
