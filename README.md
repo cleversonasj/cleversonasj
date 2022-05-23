@@ -2,14 +2,13 @@
 
 #### My name's Cleverson, I'm 31 and I'm from Brazil.
 
-:book: I'm a IT student and I'm currently learning: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB).\
-:ab: I speak Portuguese and Spanish but what about English? I'm improving my English but I can read and write without difficulty and if you need, we can try to talk.
+:book: My name's Cleverson, I'm 31, I love technology and it's the reason that I choose a tech career. I speak Portuguese, Spanish and I'm improving my English, but I can write and read without difficulty. I'm a Frontend Developer. I know technologies like HTML, CSS, JS and I'm currently learning ReactJS. I also know basic PHP and Java. You can visit my page to know something more about my projects: www.cleversonasj.com.br 😊. 
 
 If you have any question, please let me know!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleverson-junior-7749b2b7/)](https://www.linkedin.com/in/cleverson-junior-7749b2b7/)
 
-:thumbsup: Thanks for visiting! 
+:thumbsup: Thanks for visiting my profile! 
 
 <!--
 **cleversonasj/cleversonasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
