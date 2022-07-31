@@ -1,26 +1,7 @@
-### :earth_americas: "Hello World!" :earth_americas:
+Hello World! 🌎
 
-#### My name's Cleverson, I'm 31 and I'm from Brazil.
+I'm a Front-end Developer at AMG, the main technologies I use daily are: HTML, CSS, JavaScript, TypeScript and Angular (Framework). I'm a bachelor's student (4th period), I chose Information Systems as a course. Despite working as a Front-end Developer, I had contact with PHP, C language, Java and SQL. I don't limit myself to languages, libraries or frameworks, if there's a challenge, I'm ready to face it!
 
-:book: My name's Cleverson, I'm 31, I love technology and it's the reason that I choose a tech career. I speak Portuguese, Spanish and I'm improving my English, but I can write and read without difficulty. I'm a Frontend Developer. I know technologies like HTML, CSS, JS and I'm currently learning ReactJS. I also know basic PHP and Java. You can visit my page to know something more about my projects: www.cleversonasj.com.br 😊. 
+If you have any questions, just send me a message, it will be a pleasure to answer you.
 
-If you have any question, please let me know!
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleverson-junior-7749b2b7/)](https://www.linkedin.com/in/cleverson-junior-7749b2b7/)
-
-:thumbsup: Thanks for visiting my profile! 
-
-<!--
-**cleversonasj/cleversonasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio: https://cleversonasj.github.io/meu-portfolio/
