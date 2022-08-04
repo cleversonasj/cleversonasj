@@ -5,7 +5,7 @@
 </div>
 <br>
 
-Hello World! 🌎
+<h3>Hello World! 🌎</h3>
 
 I'm a Front-end Developer at AMG, the main technologies I use daily are: HTML, CSS, JavaScript, TypeScript and Angular (Framework). I'm a bachelor's student (4th period), I chose Information Systems as a course. Despite working as a Front-end Developer, I had contact with PHP, C language, Java and SQL. I don't limit myself to languages, libraries or frameworks, if there's a challenge, I'm ready to face it!
 
@@ -22,6 +22,15 @@ Portfolio: https://cleversonasj.github.io/meu-portfolio/
 </div>
 
 <br>
+  
+  <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+
+ </div>
 
 ## Total Profile Views :detective: <br>
  <p align="center"> 
