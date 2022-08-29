@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c36br1fmcu3e448asqdux1mn3kwxbwklcfwnsswe&rid=giphy.gif&ct=g" alt="Developer" />
 </div>
@@ -7,11 +5,17 @@
 
 <h3>Hello World! 🌎</h3>
 
-I'm a Front-end Developer at AMG, the main technologies I use daily are: HTML, CSS, JavaScript, TypeScript and Angular (Framework). I'm a bachelor's student (4th period), I chose Information Systems as a course. Despite working as a Front-end Developer, I had contact with PHP, C language, Java and SQL. I don't limit myself to languages, libraries or frameworks, if there's a challenge, I'm ready to face it!
+I'm a Front-end Developer, the main technologies I use daily are: HTML, CSS, JavaScript, TypeScript and Angular (Framework). I'm currently learning React and I'm studying Information Systems at Univeridade Federal de Uberlândia (UFU). Despite working as a Front-end Developer, I had contact with PHP, C Language, Java and SQL. I don't limit myself to languages, libraries or frameworks. If there's a challenge, I'm ready to face it!
 
 If you have any questions, just send me a message, it will be a pleasure to answer you.
 
-Portfolio: https://cleversonasj.github.io/meu-portfolio/
+<h3>Olá, mundo! 🌎</h3>
+
+Sou Desenvolvedor Front-end, as principais tecnologias que utilizo no meu dia a dia são: HTML, CSS, JavaScript, TypeScript e Angular (Framework). Estou aprendendo React e cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU). Já tive contato com PHP, Linguagem C, Java e SQL. Não me limito a linguagens, bibliotecas ou frameworks. Se existe um desafio, eu estou pronto para encarar!
+
+Caso tenha alguma dúvida, basta me enviar uma mensagem, será um prazer responder você.
+
+Portfólio: https://cleversonasj.github.io/meu-portfolio/
 
 <br>
 
