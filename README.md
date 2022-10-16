@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c36br1fmcu3e448asqdux1mn3kwxbwklcfwnsswe&rid=giphy.gif&ct=g" alt="Developer" style="border-radius: 20px">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c36br1fmcu3e448asqdux1mn3kwxbwklcfwnsswe&rid=giphy.gif&ct=g" alt="Developer">
 </div>
 <br>
 
