@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" alt="Developer" width="500">
+  <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="Front-end Developer" width="100%">
 </div>
 <br>
 
