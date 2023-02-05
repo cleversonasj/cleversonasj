@@ -1,19 +1,29 @@
 <div align="center">
-  <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="Front-end Developer" width="100%">
+  <img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w500" alt="Full Stack Developer" width="100%">
 </div>
 <br>
 
-<h3>Hello World! 🌎</h3>
-
-I'm a Front-end Developer, the main technologies I use daily are: HTML, CSS, JavaScript, TypeScript and Angular (Framework). I'm currently learning React and I'm studying Information Systems at Univeridade Federal de Uberlândia (UFU). Despite working as a Front-end Developer, I had contact with PHP, C Language, Java and SQL. I don't limit myself to languages, libraries or frameworks. If there's a challenge, I'm ready to face it!
-
-If you have any questions, just send me a message, it will be a pleasure to answer you.
-
 <h3>Olá, mundo! 🌎</h3>
 
-Sou Desenvolvedor Front-end, as principais tecnologias que utilizo no meu dia a dia são: HTML, CSS, JavaScript, TypeScript e Angular (Framework). Estou aprendendo React e cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU). Já tive contato com PHP, Linguagem C, Java e SQL. Não me limito a linguagens, bibliotecas ou frameworks. Se existe um desafio, eu estou pronto para encarar!
+Sou Desenvolvedor Full Stack Junior, possuo conhecimentos em HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, PHP, Laravel e em banco de dados (MySQL). Estou cursando Sistemas de Informação na UFU - Universidade Federal de Uberlândia. Também possuo conhecimentos básicos em Java e Linguagem C. Não me limito a linguagens, bibliotecas ou frameworks. Se existe um desafio, eu estou pronto para encarar!
 
 Caso tenha alguma dúvida, basta me enviar uma mensagem, será um prazer responder você.
+
+
+
+<h3>Hello World! 🌎</h3>
+I'm a Junior Full Stack Developer, I have knowledge in HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, PHP, Laravel and database (MySQL). I'm studying Information Systems at UFU - Universidade Federal de Uberlândia. I also have basic knowledge in Java and C Language. I am not limited to languages, libraries or frameworks. If there's a challenge, I'm ready to face it!
+
+If you have any questions, just send me a message, it'll be a pleasure to answer you.
+
+
+
+<h3>¡Hola mundo! 🌎</h3>
+Soy Desarrollador Full Stack Junior, tengo conocimientos en HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, PHP, Laravel y base de datos (MySQL). Estoy estudiando Sistemas de Información en la UFU - Universidade Federal de Uberlândia. También tengo conocimientos básicos en Java y Lenguaje C. No estoy limitado a lenguajes, librerías o frameworks. Si hay un desafío, ¡Estoy listo para enfrentarlo!
+
+Si tienes alguna pregunta, envíame un mensaje, será un placer responderte.
+
+
 
 Portfólio: https://cleversonasj.github.io/meu-portfolio/
 
