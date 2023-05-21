@@ -4,7 +4,7 @@
 <br>
 
 <h3>Hello World! 🌎</h3>
-I'm a Junior Full Stack Developer, I have knowledge in HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, PHP, Laravel and database (MySQL). I'm studying Information Systems at UFU - Universidade Federal de Uberlândia. I also have basic knowledge in Java and C Language. I am not limited to languages, libraries or frameworks. If there's a challenge, I'm ready to face it!
+I'm a Junior Full Stack Developer, I have knowledge in HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, Vue.js, PHP, Laravel and database (MySQL). I'm studying Information Systems at UFU - Universidade Federal de Uberlândia. I also have basic knowledge in Java and C Language. I am not limited to languages, libraries or frameworks. If there's a challenge, I'm ready to face it!
 
 If you have any questions, just send me a message, it'll be a pleasure to answer you.
 
