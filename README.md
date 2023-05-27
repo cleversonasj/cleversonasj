@@ -1,14 +1,16 @@
 <div align="center" >
-  <img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w500" alt="Full Stack Developer" width="50%">
+  <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="Full Stack Developer" width="100%">
 </div>
 <br>
 
 <h3>Hello World! 🌎</h3>
-I'm a Junior Full Stack Developer, I have knowledge in HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, Vue.js, PHP, Laravel and database (MySQL). I'm studying Information Systems at UFU - Universidade Federal de Uberlândia. I also have basic knowledge in Java and C Language. I am not limited to languages, libraries or frameworks. If there's a challenge, I'm ready to face it!
+Sou Desenvolvedor Full Stack apaixonado por tecnologia e comprometido em criar soluções. Possuo habilidades em HTML, CSS, JavaScript, PHP, Laravel, Vue.js, Angular e MySQL.
 
-If you have any questions, just send me a message, it'll be a pleasure to answer you.
+Tenho experiência em correção de bugs, manipulação de banco de dados (MySQL), exportação de dados e trabalho com o paradigma da programação orientada a objetos (POO) e estrutura MVC. Também sou familiarizado com o controle de versionamento utilizando o Git.
 
-Portfflio: https://cleversonasj.github.io/meu-portfolio/
+Tenho conhecimento sobre a metodologia ágil, o que me permite trabalhar de forma colaborativa e eficiente, entregando resultados de qualidade dentro dos prazos estabelecidos.
+
+Busco aprimorar constantemente minhas habilidades, conhecimentos e fazer parte de projetos desafiadores.
 
 <br>
 
