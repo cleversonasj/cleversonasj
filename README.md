@@ -4,13 +4,13 @@
 <br>
 
 <h3>Hello World! 🌎</h3>
-Sou Desenvolvedor Full Stack apaixonado por tecnologia e comprometido em criar soluções. Possuo habilidades em HTML, CSS, JavaScript, PHP, Laravel, Vue.js, Angular e MySQL.
+  Sou Desenvolvedor Full Stack apaixonado por tecnologia e comprometido em criar soluções. Possuo habilidades em HTML, CSS, JavaScript, PHP, Laravel, Vue.js, Angular e MySQL.
 
-Tenho experiência em correção de bugs, manipulação de banco de dados (MySQL), exportação de dados e trabalho com o paradigma da programação orientada a objetos (POO) e estrutura MVC. Também sou familiarizado com o controle de versionamento utilizando o Git.
+  Tenho experiência em correção de bugs, manipulação de banco de dados (MySQL), exportação de dados e trabalho com o paradigma da programação orientada a objetos (POO) e estrutura MVC. Também sou familiarizado com o controle de versionamento utilizando o Git.
 
-Tenho conhecimento sobre a metodologia ágil, o que me permite trabalhar de forma colaborativa e eficiente, entregando resultados de qualidade dentro dos prazos estabelecidos.
+  Tenho conhecimento sobre a metodologia ágil, o que me permite trabalhar de forma colaborativa e eficiente, entregando resultados de qualidade dentro dos prazos estabelecidos.
 
-Busco aprimorar constantemente minhas habilidades, conhecimentos e fazer parte de projetos desafiadores.
+  Busco aprimorar constantemente minhas habilidades, conhecimentos e fazer parte de projetos desafiadores.
 
 <br>
 
