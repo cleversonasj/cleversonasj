@@ -12,6 +12,7 @@
 <br>
   Busco aprimorar constantemente minhas habilidades, conhecimentos e fazer parte de projetos desafiadores.
 <br>
+<br>
 
 <div align="center">
   <a href="https://github.com/cleversonasj">
